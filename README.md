@@ -15,11 +15,6 @@ cd Fancode-SDET-Assignment
 
 ### Build the Project:
 ```
-mvn clean
+mvn clean install
 ```
 
-### Running Tests
-#### To run the automation tests from the command line:
-```
-mvn test
-```
