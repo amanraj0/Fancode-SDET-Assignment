@@ -10,12 +10,12 @@
 ### Clone the Repository:
 ```
 git clone https://github.com/amanraj0/Fancode-SDET-Assignment.git
-cd fancode-api-automation
+cd Fancode-SDET-Assignment
 ```
 
 ### Build the Project:
 ```
-mvn clean install
+mvn clean
 ```
 
 ### Running Tests
