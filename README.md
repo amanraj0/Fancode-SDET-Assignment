@@ -1,10 +1,10 @@
 # Fancode-SDET-Assignment
 
-Prerequisites
-Make sure you have the following installed on your machine:
+## Prerequisites
+### Make sure you have the following installed on your machine:
 
-Java Development Kit (JDK) 8 or higher
-Maven
+* Java Development Kit (JDK) 8 or higher
+* Maven
 
 Project Setup
 Clone the Repository:
